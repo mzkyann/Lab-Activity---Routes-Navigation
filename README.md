@@ -7,8 +7,7 @@
 ### Langkah-langkah Instalasi
 1. Clone repositori ini ke komputer Anda:
    bash
-   git clone https://github.com/denywa/navigation_codelab.git
-   
+   git clone https://github.com/mzkyann/Lab-Activity---Routes-Navigation
 2. Navigasikan ke direktori proyek:
    bash
    cd navigation_codelab
